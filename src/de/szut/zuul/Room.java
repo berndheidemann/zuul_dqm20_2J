@@ -80,7 +80,7 @@ public class Room
         if(direction.equals("down")) {
             return this.downExit;
         }
-        if(direction.equals("west")) {
+        if(direction.equals("west")) { //
             return this.westExit;
         }
         if(direction.equals("east")) {
